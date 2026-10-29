@@ -48,3 +48,14 @@ The supporting materials are provided separately through the assessment submissi
 ## Repository Purpose
 
 This repository documents the robotic car painting cell simulation and summarizes the approach, implementation, results, and limitations of the project.
+
+## Simulation Screenshots
+
+### 1. Cell Layout
+The virtual cell showing the vehicle model, ABB IRB 5500-22A robot, and painting tool.
+
+### 2. Side-Painting Trajectory
+The robot movement path created for the side-painting operation.
+
+### 3. Simulation Execution
+The robot executing the side-painting trajectory in the virtual cell.
